@@ -8,7 +8,7 @@
 **Результат**
 
 * 0% успешных тестов
-* [Баг-1](https://github.com/Zubareva-Anna/Bonus/issues/new)
+* [Некорректное начисление бонусов новым клиентам](https://github.com/Zubareva-Anna/Bonus/issues/1)
 
 **Общие рекомендации**
 
